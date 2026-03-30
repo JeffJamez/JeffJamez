@@ -52,7 +52,7 @@ A Full stack engineer with a backend-first mindset. I build REST APIs, real time
   "ai":                 ["LangChain", "OpenAI", "Anthropic Claude", "RAG Pipelines"],
   "devops":             ["Docker", "Kubernetes", "AWS", "GCP", "Terraform", "GitHub Actions"],
   "observability":      ["Prometheus", "Grafana"],
-  "currently_learning": ["Go/Gin", "ASR/TTS pipelines", "Cloudflare Durable Objects"]
+  "currently_working_on/with": ["Go/Gin", "ASR/TTS pipelines", "Cloudflare Durable Objects"]
 }
 ```
 
