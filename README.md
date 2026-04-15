@@ -30,8 +30,9 @@
 ### `$ whoami`
 
 </div>
-
-A Full stack engineer with a backend-first mindset. I build REST APIs, real time systems, AI-powered pipelines, and cross platform mobile apps, from architecture to deployment. Currently Senior Backend Engineer at **VertoX.net**, an AI-powered real-time voice translation startup. Shipping for the world.
+<!-- A Full stack engineer with a backend-first mindset -->
+Senior Node.js Backend Developer. I build real time systems, concurrent systems, AI-powered pipelines, cross platform mobile apps and REST APIs from architecture to deployment. 
+<!-- Currently Senior Backend Engineer at **VertoX.net**, an AI-powered real-time voice translation startup. Shipping for the world. -->
 
 ---
 
